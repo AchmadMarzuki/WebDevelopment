@@ -1,3 +1,9 @@
+# Konfigurasi
+1. composer update
+
+Done...
+
+
 # Sistem informasi pendaftaran praktik laprangan lapangan
  Account Testing
 akun untuk Base Gmail

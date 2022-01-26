@@ -4,7 +4,7 @@
 Done...
 
 
-# Sistem informasi pendaftaran praktik laprangan lapangan
+# Sistem informasi Pendaftaran Praktik Lapangan (SIPPL)
  Account Testing
 akun untuk Base Gmail
 Email = sisteminformasippl@gmail.com
